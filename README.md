@@ -68,6 +68,19 @@ Filebeat inputs:
 <img width="935" height="615" alt="image" src="https://github.com/user-attachments/assets/924dc643-0078-4685-b49c-c75e174182f9" />
 ---------------------------------
 
+<img width="883" height="273" alt="image" src="https://github.com/user-attachments/assets/422403e8-0e58-4c50-b7b7-3359e520fc7e" />
+------------------------------------------------------------------------------------------------------------------------------
+
+<img width="844" height="257" alt="image" src="https://github.com/user-attachments/assets/c7ec2d7c-f6a8-4d92-b9d8-c9e212e7f08b" />
+------------------------------------------------------------------------------------------------------------------------------
+
+The below command displays that Elasticsearch is loading multiple logs under the index searched for pattern “filebeat-*“
+
+<img width="966" height="681" alt="image" src="https://github.com/user-attachments/assets/1808ea7e-9dd7-46ad-ba29-d71e568643e1" />
+
+
+
+
 
 
 
