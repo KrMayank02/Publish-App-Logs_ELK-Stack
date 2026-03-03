@@ -37,8 +37,8 @@ ELK Architecture with Node-js App
 - Prepare Dockerfile for Node-js App
 - Prepare docker-compose.yaml file to configure & run the App
 - Verify Node-js App logs at 
-  •	Container local logs path
-  •	Host/Server > volume logs path
-  •	Kibana GUI
+    -	Container local logs path
+    - Host/Server > volume logs path
+    -	Kibana GUI
 -Create Kibana Dashboard for logs Data Visualization & Analysis
 
