@@ -100,18 +100,21 @@ http://100.24.35.222:8080
 http://100.24.35.222:8080/post
 
 <img width="650" height="303" alt="image" src="https://github.com/user-attachments/assets/a625de8e-845f-4906-8beb-247585910fff" />
+-----------------------------------------------------------------------------------------------------------
 
 
 <img width="677" height="296" alt="image" src="https://github.com/user-attachments/assets/684b83e9-166c-4ed4-8fc0-21879ddae51c" />
 
-Both these URLs have been hit 9 times. So, the logs will be generated for 9 hits.
+**Both these URLs have been hit 9 times. So, the logs will be generated for 9 hits.**
+
 --------------------------------------------------------------------------------------------------------------------
 
 Let’s verify Node-js App logs inside the docker container:
 
 <img width="947" height="418" alt="image" src="https://github.com/user-attachments/assets/b7734f11-a71f-42a6-9205-57214fcc3416" />
 
-Hence, for 9 Hits on Browser – App URL, 9 times logs have been generated with correct message. This is generated inside container.
+**Hence, for 9 Hits on Browser – App URL, 9 times logs have been generated with correct message. This is generated inside container.**
+
 ---------------------------------------------------------------------------------------------------------------------
 
 Let’s check the App logs on Volume at Host path mapped with container path.
