@@ -26,4 +26,19 @@ ELK Architecture with Node-js App
 <img width="942" height="446" alt="image" src="https://github.com/user-attachments/assets/c0ca270c-46c5-41fa-9d1c-34e39ae5d07f" />
 --------------------------------------------------------------------------------------------------------------------------------
 
+**High Level Tasks/Steps:**
+
+- Install Pre-requisites: Java (JDK), Docker, Docker-compose
+- Install and Configure Elasticsearch
+- Install and Configure Logstash
+- Install and Configure Kibana
+- Install and Configure Filebeat
+- Clone the Github repo of Node-js App source code
+- Prepare Dockerfile for Node-js App
+- Prepare docker-compose.yaml file to configure & run the App
+- Verify Node-js App logs at 
+  •	Container local logs path
+  •	Host/Server > volume logs path
+  •	Kibana GUI
+-Create Kibana Dashboard for logs Data Visualization & Analysis
 
