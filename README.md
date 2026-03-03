@@ -40,5 +40,5 @@ ELK Architecture with Node-js App
     -	Container local logs path
     - Host/Server > volume logs path
     -	Kibana GUI
--Create Kibana Dashboard for logs Data Visualization & Analysis
+- Create Kibana Dashboard for logs Data Visualization & Analysis
 
