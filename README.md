@@ -44,3 +44,32 @@ ELK Architecture with Node-js App
     -	Kibana GUI
 - Create Kibana Dashboard for logs Data Visualization & Analysis
 
+
+**Output Result Screenshots:**
+-------------------------------
+
+Verify whether the Elasticsearch service is running by sending an HTTP request:
+
+<img width="777" height="493" alt="image" src="https://github.com/user-attachments/assets/e7d309c4-dacb-4785-b806-dddfdaf1e803" />
+-------------------------------------------------------------------------------
+
+Logstash:
+
+<img width="905" height="143" alt="image" src="https://github.com/user-attachments/assets/3113c986-ff1a-4604-aeb7-0d17c4c8cc3c" />
+------------------------------------
+
+Access Kibana GUI on Browser, with URL: http://100.24.35.222:5601/
+
+<img width="867" height="728" alt="image" src="https://github.com/user-attachments/assets/8700063d-8d33-4626-82c1-bf6eba10228a" />
+----------------------------------
+
+Filebeat inputs:
+
+<img width="935" height="615" alt="image" src="https://github.com/user-attachments/assets/924dc643-0078-4685-b49c-c75e174182f9" />
+---------------------------------
+
+
+
+
+
+
