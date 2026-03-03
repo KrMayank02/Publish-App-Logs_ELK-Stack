@@ -6,8 +6,9 @@
 To achieve this, they have adopted the ELK stack as their application monitoring tool. ELK stack will collect and process application logs using Logstash. However, to support the microservices architecture running on Docker containers, logs will be sent directly to the ELK stack.
 By using ELK Stack and Docker, the company aims to provide continuous feedback to developers, speeding up software delivery, improving quality, and reducing the feedback loop between developers and testers.
 
-**Major Tools, Environment Used in This Project:**
 
+**Major Tools, Environment Used in This Project:**
+------------------------------------------------
 - Node-JS App
 - Elasticsearch
 - Kibana
@@ -27,6 +28,7 @@ ELK Architecture with Node-js App
 --------------------------------------------------------------------------------------------------------------------------------
 
 **High Level Tasks/Steps:**
+-------------------------
 
 - Install Pre-requisites: Java (JDK), Docker, Docker-compose
 - Install and Configure Elasticsearch
